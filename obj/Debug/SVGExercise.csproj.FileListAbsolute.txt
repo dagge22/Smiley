@@ -1,0 +1,6 @@
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\bin\SVGExercise.dll.config
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\bin\SVGExercise.dll
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\bin\SVGExercise.pdb
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\obj\Debug\SVGExercise.csprojResolveAssemblyReference.cache
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\obj\Debug\SVGExercise.dll
+c:\users\dag\documents\visual studio 2013\Projects\SVGExercise\SVGExercise\obj\Debug\SVGExercise.pdb
